@@ -1,0 +1,51 @@
+College Name,Location,NIRF Rankings,Rating,College Type
+IIT Madras - Indian Institute of Technology Madras,"Chennai, Tamil Nadu",1,4.7/5,Public/Govt
+"IISc Bangalore - Indian Institute of Science, Bangalore","Bangalore, Karnataka",2,4.8/5,Public/Govt
+IIT Delhi - Indian Institute of Technology Delhi,"New Delhi, Delhi",3,4.7/5,Public/Govt
+IIT Bombay - Indian Institute of Technology Bombay,"Mumbai, Maharashtra",4,4.8/5,Public/Govt
+IIT Kanpur - Indian Institute of Technology Kanpur,"Kanpur, Uttar Pradesh",5,4.7/5,Public/Govt
+AIIMS Delhi - All India Institute of Medical Sciences New Delhi,"New Delhi, Delhi",6,4.6/5,Public/Govt
+IIT Kharagpur - Indian Institute of Technology Kharagpur,"Kharagpur, West Bengal",7,4.7/5,Public/Govt
+IIT Roorkee - Indian Institute of Technology Roorkee,"Roorkee, Uttarakhand",8,4.4/5,Public/Govt
+IIT Guwahati (IITG) - Indian Institute of Technology Guwahati,"Guwahati, Assam",9,4.3/5,Public/Govt
+"JNU Delhi - Jawaharlal Nehru University, New Delhi","New Delhi, Delhi",10,4.6/5,Public/Govt
+"BHU Varanasi - Banaras Hindu University, Varanasi","Varanasi, Uttar Pradesh",11,4.4/5,Public/Govt
+"JMI New Delhi - Jamia Millia Islamia, New Delhi","New Delhi, Delhi",12,4.5/5,Public/Govt
+"Jadavpur University, Kolkata","Kolkata, West Bengal",13,4.6/5,Public/Govt
+IIT Hyderabad - Indian Institute of Technology Hyderabad,"Hyderabad, Telangana",14,4.5/5,Public/Govt
+"Amrita Vishwa Vidyapeetham, Coimbatore","Coimbatore, Tamil Nadu",15,4.3/5,Private
+"Manipal Academy of Higher Education (MAHE) - Manipal Academy of Higher Education, Manipal","Manipal, Karnataka",16,4.6/5,Private
+"VIT Vellore - Vellore Institute of Technology, Vellore","Vellore, Tamil Nadu",17,4.4/5,Private
+"AMU Aligarh - Aligarh Muslim University, Aligarh","Aligarh, Uttar Pradesh",19,4.7/5,Public/Govt
+"University of Hyderabad - University of Hyderabad, Hyderabad","Hyderabad, Telangana",20,4.8/5,Public/Govt
+NIT Trichy - National Institute of Technology Tiruchirappalli,"Tiruchirappalli, Tamil Nadu",21,4.4/5,Public/Govt
+"DU Delhi - University of Delhi, Delhi","New Delhi, Delhi",22,4.3/5,Public/Govt
+"Calcutta University - University of Calcutta, Kolkata","Kolkata, West Bengal",23,4.3/5,Public/Govt
+IIT Gandhinagar - Indian Institute of Technology Gandhinagar,"Gandhinagar, Gujarat",24,4.4/5,Public/Govt
+"BITS Pilani - Birla Institute of Technology and Science, Pilani","Pilani, Rajasthan",25,4.5/5,Private
+"Siksha 'O' Anusandhan, Bhubaneswar","Bhubaneshwar, Odisha",26,4.0/5,Private
+"SIMATS Chennai - Saveetha Institute of Medical and Technical Sciences, Chennai","Chennai, Tamil Nadu",27,3.2/5,Private
+IIT Indore - Indian Institute of Technology Indore,"Indore, Madhya Pradesh",28,4.6/5,Public/Govt
+"KIIT University - Kalinga Institute of Industrial Technology, Bhubaneswar","Bhubaneshwar, Odisha",29,4.3/5,Private
+"Homi Bhabha National Institute, Mumbai","Mumbai, Maharashtra",30,,Public/Govt
+IIT BHU - Indian Institute of Technology Banaras Hindu University Varanasi,"Varanasi, Uttar Pradesh",31,4.6/5,Public/Govt
+"SRM University Chennai - SRM Institute of Science and Technology, Chennai","Chennai, Tamil Nadu",32,4.3/5,Private
+IIT Ropar (IIT-RPR) - Indian Institute of Technology Ropar,"Rupnagar, Punjab",33,4.5/5,Public/Govt
+IISER Pune - Indian Institute of Science Education and Research Pune,"Pune, Maharashtra",34,4.0/5,Public/Govt
+"UNIPUNE (Pune University) - Savitribai Phule Pune University, Pune","Pune, Maharashtra",35,4.5/5,Public/Govt
+"Bharathiar University - Bharathiar University, Coimbatore","Coimbatore, Tamil Nadu",36,4.0/5,Public/Govt
+NIT Rourkela - National Institute of Technology Rourkela,"Rourkela, Odisha",37,4.6/5,Public/Govt
+NIT Surathkal (NITK) - National Institute of Technology Karnataka Surathkal,"Surathkal, Karnataka",38,4.3/5,Public/Govt
+JIPMER Puducherry - Jawaharlal Institute of Postgraduate Medical Education and Research Puducherry,"Puducherry, Puducherry",39,4.8/5,Public/Govt
+"Thapar University - Thapar Institute of Engineering and Technology, Patiala","Patiala, Punjab",40,4.3/5,Private
+"ICT Mumbai - Institute of Chemical Technology, Mumbai","Mumbai, Maharashtra",41,4.5/5,Public/Govt
+IIT (ISM) Dhanbad - Indian Institute of Technology Indian School of Mines Dhanbad,"Dhanbad, Jharkhand",42,4.3/5,Public/Govt
+IISER Kolkata - Indian Institute of Science Education and Research Kolkata,"Kolkata, West Bengal",43,3.5/5,Public/Govt
+"PUCHD - Panjab University, Chandigarh","Chandigarh, Chandigarh",44,4.2/5,Public/Govt
+"Chandigarh University - Chandigarh University, Chandigarh","Chandigarh, Chandigarh",45,4.4/5,Private
+"LPU Jalandhar - Lovely Professional University, Phagwara","Phagwara, Punjab",46,4.4/5,Private
+"Kerala University - University of Kerala, Thiruvananthapuram","Thiruvananthapuram, Kerala",47,4.5/5,Public/Govt
+"Kalasalingam Academy of Research and Education, Virudhunagar","Srivilliputtur, Tamil Nadu",48,3.7/5,Private
+"SASTRA University Thanjavur - Shanmugha Arts Science Technology Research and Academy, Thanjavur","Thanjavur, Tamil Nadu",49,4.2/5,Private
+"KL University Guntur - Koneru Lakshmaiah Education Foundation, Guntur","Guntur, Andhra Pradesh",50,4.4/5,Private
+IISER Mohali - Indian Institute of Science Education and Research Mohali,"Mohali, Punjab",51,4.4/5,Public/Govt
